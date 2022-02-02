@@ -14,6 +14,7 @@ require (
 	github.com/go-ini/ini v1.66.3
 	github.com/go-logr/logr v1.2.2
 	github.com/gobwas/glob v0.2.3
+	github.com/godaddy/opa-lambda-extension-plugin v0.1.0
 	github.com/golang/glog v1.0.0 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/gorilla/mux v1.8.0

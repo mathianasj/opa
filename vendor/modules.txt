@@ -74,6 +74,9 @@ github.com/gobwas/glob/syntax/ast
 github.com/gobwas/glob/syntax/lexer
 github.com/gobwas/glob/util/runes
 github.com/gobwas/glob/util/strings
+# github.com/godaddy/opa-lambda-extension-plugin v0.1.0
+## explicit
+github.com/godaddy/opa-lambda-extension-plugin/plugins/lambda
 # github.com/gogo/protobuf v1.3.2
 github.com/gogo/protobuf/proto
 # github.com/golang/glog v1.0.0
